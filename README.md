@@ -3,17 +3,17 @@
 |№| Course name/Название курса | Educational organization/Учебная организация |
 |-|----------------------------|----------------------------------------------|
 |1| [SQL Introduction](https://github.com/PMikhail1681/Certificates/blob/main/SQL%20Introduction.png) | Stepik, Сергей Романенко |
-|2| [Введение в базы данных]() | Stepik, Computer Science Center (CS центр) |
-|3| [Инди-курс программирования на Python]() | Stepik, Артем Егоров |
-|4| [Интерактивный тренажер по SQL]() | Stepik, Дальневосточный федеральный университет |
-|5| [Курс по Numpy - твой путь в AI]() | Stepik, Сергей Дубинин |
-|6| [Марафон данных: Первое знакомство с SQL и Python]() | Stepik, Николай Валиотти, Dataskills |
-|7| [Машинное обучение в Python: Большой курс для начинающих]() | Stepik, Влад Бурмистров |
-|8| [Начальный курс SQL от новичка до специалиста]() | Stepik, Влад Бурмистров |
-|9| [Оконные функции в SQL]() | Stepik, Антон Жиянов | 
+|2| [Введение в базы данных](https://github.com/PMikhail1681/Certificates/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png) | Stepik, Computer Science Center (CS центр) |
+|3| [Инди-курс программирования на Python](https://github.com/PMikhail1681/Certificates/blob/main/%D0%98%D0%BD%D0%B4%D0%B8-%D0%BA%D1%83%D1%80%D1%81%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%20Python.png) | Stepik, Артем Егоров |
+|4| [Интерактивный тренажер по SQL](https://github.com/PMikhail1681/Certificates/blob/main/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%20SQL.png) | Stepik, Дальневосточный федеральный университет |
+|5| [Курс по Numpy - твой путь в AI](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9A%D1%83%D1%80%D1%81%20%D0%BF%D0%BE%20Numpy%20-%20%D1%82%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%83%D1%82%D1%8C%20%D0%B2%20AI.png) | Stepik, Сергей Дубинин |
+|6| [Марафон данных: Первое знакомство с SQL и Python](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20SQL%20%20%D0%B8%20Python.png) | Stepik, Николай Валиотти, Dataskills |
+|7| [Машинное обучение в Python: Большой курс для начинающих](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85..png) | Stepik, Влад Бурмистров |
+|8| [Начальный курс SQL от новичка до специалиста](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BA%D1%83%D1%80%D1%81%20SQL%20%D0%BE%D1%82%20%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%B0%20%D0%B4%D0%BE%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0.png) | Stepik, Влад Бурмистров |
+|9| [Оконные функции в SQL](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9E%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20%D0%B2%20SQL.png) | Stepik, Антон Жиянов | 
 |10| [Основы Pandas для начинающих](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Pandas%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85.png) | Stepik, Роман Медведев |
-|11| [Основы анализа данных в Python]() | Stepik, МГИМО МИД России |
-|12| [Основы статистики]() | Stepik, Bioinformatics Institute |
-|13| [Поколение Python: Курс для начинающих]() | Stepik, Тимур Гуев |
-|14| [Программирование на Python]() | Stepik, Bioinformatics Institute |
-|15| [Регулярные выражения в Python]() | Stepik, Snorovka |
+|11| [Основы анализа данных в Python](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20Python.png) | Stepik, МГИМО МИД России |
+|12| [Основы статистики](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8.png) | Stepik, Bioinformatics Institute |
+|13| [Поколение Python: Курс для начинающих](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9F%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20Python.%20%D0%9A%D1%83%D1%80%D1%81%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85..png) | Stepik, Тимур Гуев |
+|14| [Программирование на Python](https://github.com/PMikhail1681/Certificates/blob/main/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%20Python.png) | Stepik, Bioinformatics Institute |
+|15| [Регулярные выражения в Python](https://github.com/PMikhail1681/Certificates/blob/main/%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5%20%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20Python.png) | Stepik, Snorovka |
